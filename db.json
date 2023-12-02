@@ -1,0 +1,40 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Exciting Adventure",
+      "description": "Embark on a thrilling journey filled with twists and turns. Explore unknown landscapes and face challenges that test your courage. Will you emerge victorious?",
+      "likes_count": 120
+    },
+    {
+      "id": 2,
+      "title": "Delicious Culinary Delights",
+      "description": "Savor the flavors of exquisite cuisines from around the world. Indulge your taste buds in a gastronomic adventure that will leave you craving for more. Bon appétit!",
+      "likes_count": 85
+    },
+    {
+      "id": 3,
+      "title": "Inspirational Moments",
+      "description": "Witness life's most inspiring moments captured in a frame. From small victories to heartwarming gestures, these snapshots will uplift your spirit and fill your heart with joy.",
+      "likes_count": 200
+    },
+    {
+      "id": 4,
+      "title": "Tech Innovation Unleashed",
+      "description": "Dive into the world of cutting-edge technology and innovation. Discover groundbreaking inventions and futuristic concepts that redefine the way we live and interact.",
+      "likes_count": 150
+    },
+    {
+      "id": 5,
+      "title": "Nature's Beauty Revealed",
+      "description": "Immerse yourself in the breathtaking beauty of nature. From majestic landscapes to delicate ecosystems, witness the wonders of the natural world that leave you awe-inspired.",
+      "likes_count": 180
+    },
+    {
+      "id": 6,
+      "title": "Fitness and Wellness Lifestyle",
+      "description": "Embark on a journey to a healthier, more fulfilling life. Explore fitness routines, mindful practices, and wellness tips that empower you to lead a balanced and energized lifestyle.",
+      "likes_count": 95
+    }
+  ]
+}
